@@ -1,7 +1,6 @@
 WebGPU Forward Clustered and Clustered Deferred Shading
 ======================
 
-**University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 4**
 
 * Zixiao Wang
   * [LinkedIn](https://www.linkedin.com/in/zixiao-wang-826a5a255/)
